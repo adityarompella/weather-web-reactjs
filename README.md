@@ -1,6 +1,6 @@
 # Weather App 🌤️
 
-A simple weather app built with React.js that allows  search for current weather conditions by city name and location.
+A simple weather app built with React.js, Tailwind Css, weather API for fetching data weather information and here we can search for current weather conditions by city name and location coordinates.
 
 ## Features
 
